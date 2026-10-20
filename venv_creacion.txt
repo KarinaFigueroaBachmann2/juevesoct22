@@ -1,0 +1,6 @@
+#crear carpeta venv
+python -m venv .venv
+#activar venv
+.venv\Scripts\Activate.ps1
+#instalar cosas desde requirements.txt
+pip install -r requirements.txt
