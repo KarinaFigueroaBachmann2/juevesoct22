@@ -6,4 +6,4 @@ __pycache__/
 
 # Archivos de configuración de credenciales
 .streamlit/secrets.toml
-.env
+.venv/
